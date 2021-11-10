@@ -130,10 +130,11 @@ h2 {
     margin-bottom: 1em;
     margin-left: 16px;
     position: relative;
+    overflow:hidden;
 }
 
 /*---------------------------------------------resize le before et l'after*/
-.jeu h2:before {
+h2:before {
     position: absolute;
     content: "";
     height: 0.8em;
@@ -143,14 +144,16 @@ h2 {
 
 }
 
-.jeu h2:after {
+h2:after {
     position: absolute;
     content: "";
     height: 0.8em;
-    width: 92%;
+    width: 100%;
     background-color:rgb(146, 105, 17);
     margin: 5px 0 0 10px;
 }
+
+/*--------------------liste "les plus populaires--------------------*/
 
 .titre h2:before {
     position: absolute;
@@ -173,8 +176,6 @@ h2 {
     font-weight: bold;
     text-decoration: none;
 }
-
-/*--------------------liste "les plus populaires--------------------*/
 
 .containerList {
     display: block;
@@ -218,7 +219,25 @@ h2 {
     font-family: "Libre Franklin";
 }
 
-/*lecteur youtube*/
+.jeu li:first-child {
+    font-size: 1.3em;
+}
+
+/*----lecteur youtube----*/
+.videoYT {
+    overflow:hidden;
+    padding-bottom:40%;
+    position:relative;
+    height:0;
+}
+.videoYT iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 .jeu iframe {
     max-width: 1072;
     max-height: 566;
@@ -227,9 +246,11 @@ h2 {
     margin-bottom: 20px;
     box-shadow: 0 5px 13px 0 rgb(0 0 0 / 33%);
 }
+/*-----------------------*/
 
 #blocJeu {
     display: flex;
+    margin-top: 5px;
 }
 
 .description {
