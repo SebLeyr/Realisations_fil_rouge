@@ -131,7 +131,7 @@ h2 {
     margin-left: 0px;
 }
 
-/*
+
 h2.catégorie {
     position: relative;
     overflow:hidden;
@@ -144,20 +144,20 @@ h2.catégorie:before {
     height: 0.8em;
     min-width: 20px;
     background-color:rgb(146, 105, 17);
-    margin: 5px 0 0px -10px;
+    margin: 5px 0 0 -10px;
 }
 
 h2.catégorie:after {
     position: absolute;
     content: "";
     height: 0.8em;
-    width: 100%;
+    width: inherit;
     min-width: 20px;
     background-color:rgb(146, 105, 17);
     margin: 5px 20px 0 10px;
     box-sizing: border-box;
 }
-*/
+
 /*--------------------liste "les plus populaires--------------------*/
 
 .titre h2:before {
@@ -218,6 +218,7 @@ h2.catégorie:after {
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
+    margin-right: 20px;
 }
 
 .jeu li, p {
