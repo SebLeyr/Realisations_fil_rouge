@@ -128,31 +128,36 @@ h2 {
     padding-left: 9px;
     text-transform: uppercase;
     margin-bottom: 1em;
-    margin-left: 16px;
-    position: relative;
-    overflow:hidden;
+    margin-left: 0px;
 }
 
-/*---------------------------------------------resize le before et l'after*/
-h2:before {
+/*
+h2.catégorie {
+    position: relative;
+    overflow:hidden;
+    width: 100%;
+}
+
+h2.catégorie:before {
     position: absolute;
     content: "";
     height: 0.8em;
     min-width: 20px;
     background-color:rgb(146, 105, 17);
-    margin: 5px 20px 0px -25px;
-
+    margin: 5px 0 0px -10px;
 }
 
-h2:after {
+h2.catégorie:after {
     position: absolute;
     content: "";
     height: 0.8em;
     width: 100%;
+    min-width: 20px;
     background-color:rgb(146, 105, 17);
-    margin: 5px 0 0 10px;
+    margin: 5px 20px 0 10px;
+    box-sizing: border-box;
 }
-
+*/
 /*--------------------liste "les plus populaires--------------------*/
 
 .titre h2:before {
