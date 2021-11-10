@@ -83,9 +83,6 @@ header ul:last-child {
     letter-spacing: 0.5px;
 }
 
-/*------------------------------------------------------------------*/
-/*------------------------------BODY--------------------------------*/
-
 h1 {
     font-family: Neusa,Impact,Helvetica Neue,Arial,Sans-Serif;
     font-weight: 500;
@@ -95,6 +92,9 @@ h1 {
     margin-bottom: 1em;
 
 }
+
+/*------------------------------------------------------------------*/
+/*------------------------------BODY--------------------------------*/
 
 #container {
     display: flex;
@@ -121,7 +121,7 @@ a:active {
 }
 /*------------------------------------------*/
 
-h2 {
+h2.catégorie {
     font-family: Neusa,Impact,Helvetica Neue,Arial,Sans-Serif;
     font-weight: 100;
     font-size: 1.55rem;
@@ -129,10 +129,6 @@ h2 {
     text-transform: uppercase;
     margin-bottom: 1em;
     margin-left: 0px;
-}
-
-
-h2.catégorie {
     position: relative;
     overflow:hidden;
     width: 100%;
@@ -161,6 +157,15 @@ h2.catégorie:after {
 }
 
 /*--------------------liste "les plus populaires--------------------*/
+.titre h2 {
+    font-family: Neusa,Impact,Helvetica Neue,Arial,Sans-Serif;
+    font-weight: 100;
+    font-size: 1.55rem;
+    padding-left: 9px;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    margin-left: 0px;
+}
 
 .titre h2:before {
     position: absolute;
