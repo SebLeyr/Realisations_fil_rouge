@@ -123,22 +123,41 @@ a:active {
 
 h2 {
     font-family: Neusa,Impact,Helvetica Neue,Arial,Sans-Serif;
-    font-weight: 500;
-    font-size: 1.25rem;
+    font-weight: 100;
+    font-size: 1.55rem;
     padding-left: 9px;
     text-transform: uppercase;
     margin-bottom: 1em;
-    margin-left: 15px;
+    margin-left: 16px;
+    position: relative;
 }
 
-/*---------------------------------------------Rajouter un after et resize le before*/
-h2:before {
+/*---------------------------------------------resize le before et l'after*/
+.jeu h2:before {
+    position: absolute;
+    content: "";
+    height: 0.8em;
+    min-width: 20px;
+    background-color:rgb(146, 105, 17);
+    margin: 5px 20px 0px -25px;
+
+}
+
+.jeu h2:after {
+    position: absolute;
+    content: "";
+    height: 0.8em;
+    width: 92%;
+    background-color:rgb(146, 105, 17);
+    margin: 5px 0 0 10px;
+}
+
+.titre h2:before {
     position: absolute;
     content: "";
     height: 1.2em;
     border-left: 5px solid rgb(146, 105, 17);
     margin: -1px 0 0 -9px;
-    box-sizing: border-box;
 }
 
 .titre {
@@ -201,9 +220,9 @@ h2:before {
 
 /*lecteur youtube*/
 .jeu iframe {
-    width: 1072;
-    height: 566;
-    border-radius: 25px;
+    max-width: 1072;
+    max-height: 566;
+    border-radius: 20px;
     margin-top: 10px;
     margin-bottom: 20px;
     box-shadow: 0 5px 13px 0 rgb(0 0 0 / 33%);
