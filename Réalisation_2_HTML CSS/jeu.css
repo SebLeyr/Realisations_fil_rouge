@@ -136,15 +136,17 @@ h2.catégorie {
     position: relative;
     overflow:hidden;
     width: 100%;
+    padding-left: 20px;
 }
 
 h2.catégorie:before {
     position: absolute;
     content: "";
     height: 0.8em;
-    min-width: 20px;
+    min-width: 25px;
     background-color:rgb(146, 105, 17);
     margin: 5px 0 0 -10px;
+    left: 0;
 }
 
 h2.catégorie:after {
