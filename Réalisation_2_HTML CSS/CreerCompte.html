@@ -1,0 +1,57 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="RottenPotatoAccueil.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <h1>Rotten Potatoes</h1>
+        <input type="search" placeholder="Rechercher un jeu, un studio...">
+        <nav id="menu">
+            <ul>
+                <li>Se connecter</li>
+                <li>Mon compte</li>
+            </ul>
+            <ul>
+                <li><a href="./RottenPotatoAccueil.html">Actualités</a></li>
+                <li>Jeux</li>
+                <li>Studios</li>
+                <li>Ma liste</li>
+            </ul>
+        </nav>
+    </header>
+    <div id="Container">
+        <form id="login" method="POST" action="">
+            <label for="pseudo">Pseudo : </label>
+            <input type="text" name="pseudo" placeholder="Pseudo" maxlength="20" id="pseudo"/>
+            <label for="email">E-mail : </label>
+            <input type="email" name="email" placeholder="E-mail" id="email"/>
+            <label for="mdp">Mot de passe : </label>
+            <input type="password" name="mdp" placeholder="Mot de passe" minlength="8" maxlength="25" id="mdp"/>
+            <label for="confirmMdp">Confirmer le mot de passe : </label>
+            <input type="password" name="confirmMdp" placeholder="Confirmation" minlength="8" maxlength="25" id="confirmMdp"/>
+        </form>
+    </div>
+
+    <footer>
+        <div class="footer_block">
+            <ul>
+                <li>Aide</li>
+                <li>À propos de rotten potatoes</li>
+            </ul>
+        </div>
+        <div class="footer_block">
+            <ul>
+                <li>Contacts</li>
+                <li>Gérer les cookies</li>
+                <li>conditions d'utilisation</li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>

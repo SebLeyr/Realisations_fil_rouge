@@ -56,7 +56,7 @@ nav li {
     margin: 0 10px 0 10px;
 }
 
-/*menu de connexion*/
+/*menu de connexion temporaire*/
 header ul:first-child {
     font-family: "Franklin Gothic",-apple-system,BlinkMacSystemFont,"PT Sans",Arial,Sans-Serif;
     font-size: inherit;
@@ -64,6 +64,17 @@ header ul:first-child {
     color: white;
     font-size: 0.9rem;
     align-self: flex-end;
+}
+
+/*à garder quand le menu aura tous ses liens*/
+header ul:first-child a{
+    font-family: "Franklin Gothic",-apple-system,BlinkMacSystemFont,"PT Sans",Arial,Sans-Serif;
+    font-size: inherit;
+    text-transform: uppercase;
+    color: white;
+    font-size: 0.9rem;
+    align-self: flex-end;
+    text-decoration: none;
 }
 
 /*-à enveler une fois la création de compte opérationnelle, cache l'onglet "mon compte"-*/
