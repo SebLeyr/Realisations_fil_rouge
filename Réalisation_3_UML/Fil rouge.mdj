@@ -11440,7 +11440,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 793,
-									"top": 1393,
+									"top": 1321,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -11461,7 +11461,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 793,
-									"top": 1408,
+									"top": 1336,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -11482,7 +11482,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 794,
-									"top": 1363,
+									"top": 1291,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -11499,7 +11499,7 @@
 							"tail": {
 								"$ref": "AAAAAAF8NZtYgK16HR4="
 							},
-							"points": "1408:831;1408:1384;180:1384;180:799",
+							"points": "1408:831;1408:1312;180:1312;180:799",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF8NfpgCOmeKyQ="
@@ -73251,9 +73251,9 @@
 												"$ref": "AAAAAAF8VJB/KuRu+sc="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 22.55908203125,
 											"top": 13,
-											"width": 114.45166015625,
+											"width": 102.79736328125,
 											"height": 13,
 											"text": "Création de compte"
 										},
@@ -73266,7 +73266,7 @@
 											"font": "Arial;13;1",
 											"left": 5,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -75337,9 +75337,9 @@
 												"$ref": "AAAAAAF8WoBQ/WCwFJ4="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 63.15625,
+											"width": 58.052734375,
 											"height": 13,
 											"text": "Connexion"
 										},
@@ -75352,7 +75352,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -76797,9 +76797,9 @@
 												"$ref": "AAAAAAF8WoweJmJs6nY="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 22.55908203125,
 											"top": 13,
-											"width": 63.13720703125,
+											"width": 55.83740234375,
 											"height": 13,
 											"text": "rechercher"
 										},
@@ -76812,7 +76812,7 @@
 											"font": "Arial;13;1",
 											"left": 5,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -77879,9 +77879,9 @@
 												"$ref": "AAAAAAF8WoxNJ2Lao68="
 											},
 											"font": "Arial;13;0",
-											"left": 64.72998046875,
+											"left": 62.55908203125,
 											"top": 13,
-											"width": 169.466796875,
+											"width": 153.47705078125,
 											"height": 13,
 											"text": "Visualiser la page d'un studio"
 										},
@@ -77894,7 +77894,7 @@
 											"font": "Arial;13;1",
 											"left": 45,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -78832,9 +78832,9 @@
 												"$ref": "AAAAAAF8Wq3VFmg1p8M="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 152.125,
+											"width": 137.576171875,
 											"height": 13,
 											"text": "Visualiser la page d'un jeu"
 										},
@@ -78847,7 +78847,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -79785,9 +79785,9 @@
 												"$ref": "AAAAAAF8Wq5MHmijF08="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 135.88134765625,
+											"width": 122.95751953125,
 											"height": 13,
 											"text": "Visualiser les actualités"
 										},
@@ -79800,7 +79800,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -80735,9 +80735,9 @@
 												"$ref": "AAAAAAF8Wq5xZ2kRF5E="
 											},
 											"font": "Arial;13;0",
-											"left": 56.72998046875,
+											"left": 54.55908203125,
 											"top": 13,
-											"width": 123.5986328125,
+											"width": 113.5693359375,
 											"height": 13,
 											"text": "Visualiser une review"
 										},
@@ -80750,7 +80750,7 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -81694,9 +81694,9 @@
 												"$ref": "AAAAAAF8Wq6bsml/2ts="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 22.55908203125,
 											"top": 5,
-											"width": 92.0634765625,
+											"width": 80.041015625,
 											"height": 13,
 											"text": "Se déconnecter"
 										},
@@ -81709,7 +81709,7 @@
 											"font": "Arial;13;1",
 											"left": 5,
 											"top": 5,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -82268,9 +82268,9 @@
 												"$ref": "AAAAAAF8Wq7AwGntaSE="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 5,
-											"width": 118.05078125,
+											"width": 110.03369140625,
 											"height": 13,
 											"text": "Modifier son compte"
 										},
@@ -82283,7 +82283,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 5,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -83724,9 +83724,9 @@
 												"$ref": "AAAAAAF8Wq7o12pbB/8="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 131.78076171875,
+											"width": 118.70458984375,
 											"height": 13,
 											"text": "Supprimer son compte"
 										},
@@ -83739,7 +83739,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -84805,9 +84805,9 @@
 												"$ref": "AAAAAAF8Wq8OnGrJaP0="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 71.82080078125,
+											"width": 65.98095703125,
 											"height": 13,
 											"text": "Noter un jeu"
 										},
@@ -84820,7 +84820,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -85631,9 +85631,9 @@
 												"$ref": "AAAAAAF8Wq9CWGs30M8="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 22.55908203125,
 											"top": 13,
-											"width": 93.49169921875,
+											"width": 86.921875,
 											"height": 13,
 											"text": "Modifier sa note"
 										},
@@ -85646,7 +85646,7 @@
 											"font": "Arial;13;1",
 											"left": 5,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -86462,9 +86462,9 @@
 												"$ref": "AAAAAAF8Wq9/CWuldBY="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 138.59814453125,
+											"width": 128.22607421875,
 											"height": 13,
 											"text": "Ecrire la review d'un jeu"
 										},
@@ -86477,7 +86477,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -87546,9 +87546,9 @@
 												"$ref": "AAAAAAF8Wq/JAGwT8i0="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 105.75537109375,
+											"width": 99.9091796875,
 											"height": 13,
 											"text": "Modifier sa review"
 										},
@@ -87561,7 +87561,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -88630,9 +88630,9 @@
 												"$ref": "AAAAAAF8WrAuJWyB/lM="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 113.00439453125,
+											"width": 97.0400390625,
 											"height": 13,
 											"text": "Poster un message"
 										},
@@ -88645,7 +88645,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -89458,9 +89458,9 @@
 												"$ref": "AAAAAAF8WrBQ52zvc6s="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 128.1689453125,
+											"width": 115.81005859375,
 											"height": 13,
 											"text": "Modifier son message"
 										},
@@ -89473,7 +89473,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -90411,9 +90411,9 @@
 												"$ref": "AAAAAAF8WrB3+21dN2Q="
 											},
 											"font": "Arial;13;0",
-											"left": 24.72998046875,
+											"left": 22.55908203125,
 											"top": 13,
-											"width": 141.89892578125,
+											"width": 124.48095703125,
 											"height": 13,
 											"text": "Supprimer son message"
 										},
@@ -90426,7 +90426,7 @@
 											"font": "Arial;13;1",
 											"left": 5,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -91238,9 +91238,9 @@
 												"$ref": "AAAAAAF8WrCe9G3LwCg="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 81.2216796875,
+											"width": 76.0927734375,
 											"height": 13,
 											"text": "Ajouter un jeu"
 										},
@@ -91253,7 +91253,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -92188,9 +92188,9 @@
 												"$ref": "AAAAAAF8WrDGuG45tWc="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 86.26806640625,
+											"width": 82.5927734375,
 											"height": 13,
 											"text": "Modifier un jeu"
 										},
@@ -92203,7 +92203,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -93144,9 +93144,9 @@
 												"$ref": "AAAAAAF8WrDs+W6nGRU="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 99.998046875,
+											"width": 91.263671875,
 											"height": 13,
 											"text": "Supprimer un jeu"
 										},
@@ -93159,7 +93159,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -93972,9 +93972,9 @@
 												"$ref": "AAAAAAF8WrET2m8VBW4="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 232.94970703125,
+											"width": 212.56103515625,
 											"height": 13,
 											"text": "Promouvoir un utilisateur en modérateur"
 										},
@@ -93987,7 +93987,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -94800,9 +94800,9 @@
 												"$ref": "AAAAAAF8WrFDB2+Dl4Q="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 158.52978515625,
+											"width": 141.77197265625,
 											"height": 13,
 											"text": "Rétrograder un modérateur"
 										},
@@ -94815,7 +94815,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -95628,9 +95628,9 @@
 												"$ref": "AAAAAAF8WrFkl2/x3eM="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 119.5234375,
+											"width": 110.00830078125,
 											"height": 13,
 											"text": "Ajouter une actualité"
 										},
@@ -95643,7 +95643,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -96581,9 +96581,9 @@
 												"$ref": "AAAAAAF8WrGF13BfLkc="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 124.56982421875,
+											"width": 116.50830078125,
 											"height": 13,
 											"text": "Modifier une actualité"
 										},
@@ -96596,7 +96596,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -97534,9 +97534,9 @@
 												"$ref": "AAAAAAF8WrGtO3DNIqU="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 138.2998046875,
+											"width": 125.17919921875,
 											"height": 13,
 											"text": "Supprimer une actualité"
 										},
@@ -97549,7 +97549,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -98365,9 +98365,9 @@
 												"$ref": "AAAAAAF8WxQ/jrMefc8="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 98.5634765625,
+											"width": 91.99365234375,
 											"height": 13,
 											"text": "Ajouter un studio"
 										},
@@ -98380,7 +98380,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -99321,9 +99321,9 @@
 												"$ref": "AAAAAAF8WxRmAbPsa8o="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 103.60986328125,
+											"width": 98.49365234375,
 											"height": 13,
 											"text": "Modifier un studio"
 										},
@@ -99336,7 +99336,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -100274,9 +100274,9 @@
 												"$ref": "AAAAAAF8WxSHH7Rab8c="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 117.33984375,
+											"width": 107.16455078125,
 											"height": 13,
 											"text": "Supprimer un studio"
 										},
@@ -100289,7 +100289,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -101105,9 +101105,9 @@
 												"$ref": "AAAAAAF8WxTL5bTIoIE="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 127.4453125,
+											"width": 116.52099609375,
 											"height": 13,
 											"text": "Supprimer une review"
 										},
@@ -101120,7 +101120,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -102562,9 +102562,9 @@
 												"$ref": "AAAAAAF8WxT1nLU297M="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 135.39892578125,
+											"width": 119.421875,
 											"height": 13,
 											"text": "Supprimer un message"
 										},
@@ -102577,7 +102577,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -103764,9 +103764,9 @@
 												"$ref": "AAAAAAF8WxUptrWlKas="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 115.89892578125,
+											"width": 107.869140625,
 											"height": 13,
 											"text": "Bannir un utilisateur"
 										},
@@ -103779,7 +103779,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -105218,9 +105218,9 @@
 												"$ref": "AAAAAAF8WxVODbYTrjc="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 13,
-											"width": 148.4306640625,
+											"width": 133.86279296875,
 											"height": 13,
 											"text": "Annuler un bannissement"
 										},
@@ -105233,7 +105233,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -106270,7 +106270,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106278,7 +106279,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106286,7 +106288,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106294,7 +106297,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role4"
+					"name": "Role4",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106302,7 +106306,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role5"
+					"name": "Role5",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106310,7 +106315,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role6"
+					"name": "Role6",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106318,7 +106324,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role7"
+					"name": "Role7",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106326,7 +106333,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role8"
+					"name": "Role8",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106334,7 +106342,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role9"
+					"name": "Role9",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106342,7 +106351,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role10"
+					"name": "Role10",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106350,7 +106360,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role11"
+					"name": "Role11",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106358,7 +106369,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role12"
+					"name": "Role12",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106366,7 +106378,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role13"
+					"name": "Role13",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106374,7 +106387,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role14"
+					"name": "Role14",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106382,7 +106396,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role15"
+					"name": "Role15",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106390,7 +106405,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role16"
+					"name": "Role16",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106398,7 +106414,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role17"
+					"name": "Role17",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106406,7 +106423,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role18"
+					"name": "Role18",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106414,7 +106432,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role19"
+					"name": "Role19",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106422,7 +106441,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role20"
+					"name": "Role20",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106430,7 +106450,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role21"
+					"name": "Role21",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106438,7 +106459,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role22"
+					"name": "Role22",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106446,7 +106468,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role23"
+					"name": "Role23",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106454,7 +106477,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role24"
+					"name": "Role24",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106462,7 +106486,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role25"
+					"name": "Role25",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106470,7 +106495,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role26"
+					"name": "Role26",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106478,7 +106504,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role27"
+					"name": "Role27",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106486,7 +106513,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role28"
+					"name": "Role28",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106494,7 +106522,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role29"
+					"name": "Role29",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106502,7 +106531,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role30"
+					"name": "Role30",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106510,7 +106540,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role31"
+					"name": "Role31",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106518,7 +106549,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role32"
+					"name": "Role32",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106526,7 +106558,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role33"
+					"name": "Role33",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106534,7 +106567,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role34"
+					"name": "Role34",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106542,7 +106576,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role35"
+					"name": "Role35",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106550,7 +106585,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role36"
+					"name": "Role36",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106558,7 +106594,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role37"
+					"name": "Role37",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106566,7 +106603,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role38"
+					"name": "Role38",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106574,7 +106612,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role39"
+					"name": "Role39",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106582,7 +106621,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role40"
+					"name": "Role40",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106590,7 +106630,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role41"
+					"name": "Role41",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106598,7 +106639,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role42"
+					"name": "Role42",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106606,7 +106648,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role43"
+					"name": "Role43",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106614,7 +106657,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role44"
+					"name": "Role44",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106622,7 +106666,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role45"
+					"name": "Role45",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106630,7 +106675,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role46"
+					"name": "Role46",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106638,7 +106684,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role47"
+					"name": "Role47",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106646,7 +106693,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role48"
+					"name": "Role48",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106663,7 +106711,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role50"
+					"name": "Role50",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106671,7 +106720,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role51"
+					"name": "Role51",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106679,7 +106729,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role52"
+					"name": "Role52",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106687,7 +106738,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role53"
+					"name": "Role53",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106695,7 +106747,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role54"
+					"name": "Role54",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106703,7 +106756,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role55"
+					"name": "Role55",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106711,7 +106765,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role56"
+					"name": "Role56",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106719,7 +106774,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role57"
+					"name": "Role57",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106727,7 +106783,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role58"
+					"name": "Role58",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106735,7 +106792,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role59"
+					"name": "Role59",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106743,7 +106801,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role60"
+					"name": "Role60",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106751,7 +106810,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role61"
+					"name": "Role61",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106759,7 +106819,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role62"
+					"name": "Role62",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106767,7 +106828,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role63"
+					"name": "Role63",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106775,7 +106837,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role64"
+					"name": "Role64",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106783,7 +106846,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role65"
+					"name": "Role65",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106791,7 +106855,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role66"
+					"name": "Role66",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106799,7 +106864,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role67"
+					"name": "Role67",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106807,7 +106873,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role68"
+					"name": "Role68",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106815,7 +106882,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role69"
+					"name": "Role69",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106823,7 +106891,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role70"
+					"name": "Role70",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106831,7 +106900,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role71"
+					"name": "Role71",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106839,7 +106909,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role72"
+					"name": "Role72",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106847,7 +106918,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role73"
+					"name": "Role73",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106855,7 +106927,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role74"
+					"name": "Role74",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106863,7 +106936,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role75"
+					"name": "Role75",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106871,7 +106945,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role76"
+					"name": "Role76",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106879,7 +106954,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role77"
+					"name": "Role77",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -106887,7 +106963,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF8VJB/KuRrpbU="
 					},
-					"name": "Role78"
+					"name": "Role78",
+					"type": ""
 				}
 			]
 		}
