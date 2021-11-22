@@ -9,30 +9,45 @@
 </head>
 
 <body>
-    <div id="Container">
-        <form id="login" method="POST" action="">
-            <ul>
-                <li>
-                    <label for="pseudo">Pseudo </label>
-                    <input type="text" name="pseudo" placeholder="Pseudo" maxlength="20" id="pseudo"/>
-                </li>
-                <li>
-                    <label for="email">E-mail </label>
-                    <input type="email" name="email" placeholder="E-mail" id="email"/>
-                </li>
-                <li>
-                    <label for="mdp">Mot de passe </label>
-                    <input type="password" name="mdp" placeholder="Mot de passe" minlength="8" maxlength="25" id="mdp"/>
-                </li>
-                <li>
-                    <label for="confirmMdp">Confirmer le mot de passe </label>
-                    <input type="password" name="confirmMdp" placeholder="Confirmation" minlength="8" maxlength="25" id="confirmMdp"/>
-                </li>
-                <li>
-                    <label for="CondUtilisat">J'accepte les conditions d'utilisateur de Rotten Potatoes </label>
-                    <input type="checkbox" id="CondUtilisat">
-                </li>
-            </ul>
-        </form>
+    <div id="creaCompte" class="modal">
+        <div>
+            <header>
+                <h2>S'inscrire sur Rotten Potatoes</h2>
+                <!--boutton fermeture form-->
+            </header>
+
+            <div id="Container">
+                <form id="login" method="POST" action="">
+                    <ul>
+                        <li>
+                            <label for="pseudo">Pseudo </label>
+                            <input type="text" name="pseudo" placeholder="Pseudo" maxlength="20" id="pseudo"/>
+                        </li>
+                        <li>
+                            <label for="email">E-mail </label>
+                            <input type="email" name="email" placeholder="E-mail" id="email"/>
+                        </li>
+                        <li>
+                            <label for="mdp">Mot de passe </label>
+                            <input type="password" name="mdp" placeholder="Mot de passe" minlength="8" maxlength="25" id="mdp"/>
+                        </li>
+                        <li>
+                            <label for="confirmMdp">Confirmer le mot de passe </label>
+                            <input type="password" name="confirmMdp" placeholder="Confirmation" minlength="8" maxlength="25" id="confirmMdp"/>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="CondUtilisat">
+                            <label for="CondUtilisat">Je souhaite m'inscrire à la newletter du site </label>
+                        </li>
+                    </ul>
+                </form>
+            </div>
+            
+
+            <footer>
+                <input type="submit" name="Crea" value="Créer votre compte">
+                <p>Déjà un compte ? Identifiez vous ici</p>
+            </footer>
+        </div>
     </div>
 </html>
