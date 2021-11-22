@@ -31,10 +31,30 @@ h2 {
 }
 
 /*---main---*/
+.modal div:first-child {
+    width: 600px;
+    max-height: 100vh;
+    border-radius: 6px;
+    background-color: white;
+    overflow-y: auto;
+    box-sizing: border-box;
+}
+
 form label{
     font-family: "Libre Franklin";
     font-weight: bold;
-    padding-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+input {
+    width: 50%;
+    height: 40px;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid #e9e9ea;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 8%);
 }
 
 form input, label {
@@ -51,18 +71,14 @@ li:last-child {
 }
 
 li:last-child label {
-    padding-top: 0px;
-    padding-left: 5px;
+padding-top: 14px;
+padding-left: 7px;
     justify-items: flex-start;
 }
 
-.modal div:first-child {
-    width: 600px;
-    max-height: 100vh;
-    border-radius: 6px;
-    background-color: white;
-    overflow-y: auto;
-    box-sizing: border-box;
+li:last-child input {
+    box-shadow: none;
+    width: 15px;
 }
 
 /*---Footer---*/
@@ -76,6 +92,7 @@ footer input {
     font-family: "Libre Franklin";
     text-transform: uppercase;
     font-weight: bold;
+    width: auto;
 }
 
 footer p {
