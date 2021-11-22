@@ -262,9 +262,10 @@ h2.catégorie:after {
 /*----lecteur youtube----*/
 .videoYT {
     overflow:hidden;
-    padding-bottom:40%;
+    padding-bottom:32%;
     position:relative;
     height:0;
+    margin-bottom: 10px;
 }
 .videoYT iframe{
     left:0;
