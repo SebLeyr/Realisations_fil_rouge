@@ -1,25 +1,25 @@
 //récupérer la page de connexion
-var crea = RottenPotatoAccueil.getElementById("creaCompte");
+var crea = document.getElementById("creaCompte");
 
 //récupérer le bouton d'ouverture de la page
-var open = RottenPotatoAccueil.getElementByClassName("creaCpt");
+var open = document.getElementById("creaCpt");
 
 //récupérer le bouton de fermeture de la page
-var close = RottenPotatoAccueil.getElementById("close");
+var close = crea.contentWindow.document.getElementsByClassName("close");
 
 //ouverture de la page avec le bouton
-open.onclick = function() {
+open.addEventListener("click", function() {
     crea.style.display = "block";
-}
+})
 
 //fermeture de la page avec le bouton
-close.onclick = function() {
+close.addEventListener("click", function() {
     crea.style.display = "none";
-}
+})
 
 //fermeture de la page avec le background
-window.onclick = function(event) {
+window.addEventListener("click", function(event) {
     if (event.target == modal) {
         modal.style.display = "none";
     }
-}
+})
