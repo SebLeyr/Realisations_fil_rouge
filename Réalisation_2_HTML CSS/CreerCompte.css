@@ -13,7 +13,7 @@
     margin: 0;
 }
 
-.modal .close {
+.modal #close {
     color: #aaa;
     float: right;
     font-size: 28px;
