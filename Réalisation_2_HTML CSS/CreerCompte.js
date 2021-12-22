@@ -5,7 +5,8 @@ var crea = document.getElementById("creaCompte");
 var open = document.getElementById("creaCpt");
 
 //récupérer le bouton de fermeture de la page
-var close = crea.contentWindow.document.getElementsByClassName("close");
+var iframe = crea.contentDocument || crea.contentWindow.document;
+var close = iframe.getElementById("close");
 
 //ouverture de la page avec le bouton
 open.addEventListener("click", function() {
