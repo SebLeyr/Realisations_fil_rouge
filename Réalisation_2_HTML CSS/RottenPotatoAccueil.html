@@ -8,9 +8,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header>
+    <header id="mainHeader">
         <h1>Rotten Potatoes</h1>
-        <input type="search" placeholder="Rechercher un jeu, un studio...">
+        <input id="search" type="search" placeholder="Rechercher un jeu, un studio...">
         <nav id="menu">
             <ul>
                 <!--<li><a href="./CreerCompte.html">Créer un compte</a></li>-->
@@ -27,8 +27,49 @@
         </nav>
     </header>
 
-    <!--iframe contenant la page de création de compte-->
-    <iframe src="./CreerCompte.html" id="creaCompte"></iframe>
+    <!--iframe contenant la page de création de compte (inutile)-->
+    <!--<iframe src="./CreerCompte.html" id="creaCompte"></iframe>-->
+
+    <div id="creaCompte" class="modal">
+        <div>
+            <header>
+                <span id="close">&times;</span>
+                <h3>S'inscrire sur Rotten Potatoes</h3>
+            </header>
+
+            <div>
+                <form id="login" method="POST" action="">
+                    <ul>
+                        <li>
+                            <label for="pseudo">Pseudo </label>
+                            <input type="text" name="pseudo" maxlength="20" id="pseudo"/>
+                        </li>
+                        <li>
+                            <label for="email">E-mail </label>
+                            <input type="email" name="email" id="email"/>
+                        </li>
+                        <li>
+                            <label for="mdp">Mot de passe </label>
+                            <input type="password" name="mdp" minlength="8" maxlength="25" id="mdp"/>
+                        </li>
+                        <li>
+                            <label for="confirmMdp">Confirmer le mot de passe </label>
+                            <input type="password" name="confirmMdp" minlength="8" maxlength="25" id="confirmMdp"/>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="CondUtilisat">
+                            <label for="CondUtilisat">Je souhaite m'inscrire à la newletter du site </label>
+                        </li>
+                    </ul>
+                </form>
+            </div>
+            
+            <footer>
+                <input type="submit" name="Crea" value="Créer votre compte">
+                <p>Déjà un compte ?  Identifiez vous ici</p>
+            </footer>
+        </div>
+    </div>
 
     <div id="Container">
         <div class="container">
@@ -89,7 +130,7 @@
             </ul>
         </div>
     </div>
-    <footer>
+    <footer id="mainFooter">
         <div class="footer_block">
             <ul>
                 <li>Aide</li>
