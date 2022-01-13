@@ -131,13 +131,6 @@ h1 {
     width: 20px;
 }
 
-/*miniatures dans les carousels*/
-.cover {
-    max-height: 300px;
-    border-radius: 12px;
-    align-self: flex-start;
-}
-
 a:visited{
     color: black;
 }
@@ -182,7 +175,7 @@ h2:before {
 
 .carousel {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-left: 25px;
     margin-bottom: 15px;
 }
@@ -214,6 +207,13 @@ h2:before {
 .carousel .date {
     margin-top: 5px;
     margin-bottom: 5PX;
+}
+
+/*miniatures dans les carousels*/
+.cover {
+    max-height: 300px;
+    border-radius: 12px;
+    align-self: flex-start;
 }
 
 /*------------------------------------------------------------------*/

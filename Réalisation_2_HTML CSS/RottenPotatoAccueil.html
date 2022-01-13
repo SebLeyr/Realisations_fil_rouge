@@ -29,7 +29,7 @@
 
     <!--iframe contenant la page de création de compte (inutile)-->
     <!--<iframe src="./CreerCompte.html" id="creaCompte"></iframe>-->
-
+<!--Modale création de compte-->
     <div id="creaCompte" class="modal">
         <div>
             <header>
@@ -77,15 +77,73 @@
                 <h2>Les nouvelles sorties</h2>
                 <a href="">Tout voir</a>
             </div>
+            <!--carousel nouvelle sorties-->
             <div class="carousel">
-                <img class="cover" src="./image/ex nouv sortie.jpg">
-                <div>
+                <div class="slide">
+                    <img class="cover" src="./image/ex nouv sortie.jpg">
                     <div class="note">
                         <img class="imgNote" src="./image/potatoe.png">
                         <p>note</p>
                     </div>
                     <a href="./Jeu.html">Sable</a>
                 </div>
+
+                <div class="slide">
+                    <img class="cover" src="./image/Icarus.jpg">
+                    <div class="note">
+                        <img class="imgNote" src="./image/potatoe.png">
+                        <p>note</p>
+                    </div>
+                    <a href="./Jeu.html">Icarus</a>
+                </div>
+
+                <div class="slide">
+                    <img class="cover" src="./image/death stranding.jpg">
+                    <div class="note">
+                        <img class="imgNote" src="./image/potatoe.png">
+                        <p>note</p>
+                    </div>
+                    <a href="./Jeu.html">Death Stranding</a>
+                </div>
+
+                <div class="slide">
+                    <img class="cover" src="./image/Halo_Infinite.png">
+                    <div class="note">
+                        <img class="imgNote" src="./image/potatoe.png">
+                        <p>note</p>
+                    </div>
+                    <a href="./Jeu.html">Halo infinite</a>
+                </div>
+
+                <div class="slide">
+                    <img class="cover" src="./image/Solar_Ash.jpg">
+                    <div class="note">
+                        <img class="imgNote" src="./image/potatoe.png">
+                        <p>note</p>
+                    </div>
+                    <a href="./Jeu.html">Solar ash</a>
+                </div>
+
+                <div class="slide">
+                    <img class="cover" src="./image/The_Gunk.jpg">
+                    <div class="note">
+                        <img class="imgNote" src="./image/potatoe.png">
+                        <p>note</p>
+                    </div>
+                    <a href="./Jeu.html">The Gunk</a>
+                </div>
+
+                <div class="slide">
+                    <img class="cover" src="./image/Final_Fantasy_XIV_Endwalker.jpg">
+                    <div class="note">
+                        <img class="imgNote" src="./image/potatoe.png">
+                        <p>note</p>
+                    </div>
+                    <a href="./Jeu.html">Final Fantasy XIV: Endwalker</a>
+                </div>
+                <!--bouttons suivant précédent-->
+                <div class="precedent" onclick="changeslide(-1)">&#10094;</div>
+                <div class="suivant" onclick="changeslide(1)">&#10095;</div>
             </div>
         </div>
         <div class="container">
@@ -94,8 +152,8 @@
                 <a href="">Tout voir</a>
             </div>
             <div class="carousel">
-                <img class="cover" src="./image/ex proch.jpg">
                 <div>
+                    <img class="cover" src="./image/ex proch.jpg">
                     <p class="date">28 Octobre 2021</p>
                     <a href="">Age of empire IV</a>
                 </div>
@@ -147,5 +205,6 @@
     </footer>
 
     <script src="./CreerCompte.js"></script>
+    <script src="carousel.js"></script>
 </body>
 </html>
