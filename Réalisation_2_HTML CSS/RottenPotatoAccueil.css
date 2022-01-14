@@ -178,6 +178,8 @@ h2:before {
     flex-direction: row;
     margin-left: 25px;
     margin-bottom: 15px;
+    max-width: 970px;
+    overflow: hidden;
 }
 
 .carousel div{
@@ -220,6 +222,10 @@ h2:before {
 
 .slide {
     margin: 0 7px 0 7px;
+}
+
+.precedent .suivant {
+    bottom: 50%;
 }
 
 /*------------------------------------------------------------------*/
